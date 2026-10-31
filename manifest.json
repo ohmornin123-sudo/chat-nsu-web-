@@ -1,11 +1,11 @@
 {
-    "name": "capstone_app",
-    "short_name": "capstone_app",
+    "name": "CHAT-NSU (남서울대학교 스마트 캠퍼스)",
+    "short_name": "CHAT-NSU",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#003B70",
+    "theme_color": "#003B70",
+    "description": "남서울대학교 AI 학사 어시스턴트 & 실시간 캠퍼스 라이프",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
