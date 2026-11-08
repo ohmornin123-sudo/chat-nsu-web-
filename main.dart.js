@@ -8339,7 +8339,7 @@ us(){var s=0,r=A.O(t.b5),q,p=2,o=[],n,m,l,k,j,i,h,g,f,e,d,c,b
 var $async$us=A.K(function(a,a0){if(a===1){o.push(a0)
 s=p}for(;;)switch(s){case 0:p=4
 s=7
-return A.C(A.uf(A.cm("https://chat-nsu-backend.onrender.com/notices",0,null),B.c_).fP(B.tq),$async$us)
+return A.C(A.uf(A.cm("https://chat-nsu-backend.onrender.com/notices",0,null),B.c_).fP(B.ts),$async$us)
 case 7:n=a0
 s=n.b===200?8:9
 break
@@ -8456,7 +8456,7 @@ ur(){var s=0,r=A.O(t.a),q,p=2,o=[],n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4
 var $async$ur=A.K(function(a5,a6){if(a5===1){o.push(a6)
 s=p}for(;;)switch(s){case 0:p=4
 s=7
-return A.C(A.uf(A.cm("https://chat-nsu-backend.onrender.com/cafeteria/weekly",0,null),B.c_).fP(B.tq),$async$ur)
+return A.C(A.uf(A.cm("https://chat-nsu-backend.onrender.com/cafeteria/weekly",0,null),B.c_).fP(B.ts),$async$ur)
 case 7:n=a6
 s=n.b===200?8:9
 break
@@ -53126,11 +53126,11 @@ else{r=o.a.x
 r===$&&A.a()
 s=r>0.5}if(s){r=o.a
 r.z=B.b2
-r.hQ(1,B.lz,B.tr)}else{if(n)o.b.fd()
+r.hQ(1,B.lz,B.tq)}else{if(n)o.b.fd()
 r=o.a
 q=r.r
 if(q!=null&&q.a!=null){r.z=B.lJ
-r.hQ(0,B.lz,B.tr)}}q=r.r
+r.hQ(0,B.lz,B.tq)}}q=r.r
 if(q!=null&&q.a!=null){p=A.cs()
 p.b=new A.auz(o,p)
 q=p.b8()
@@ -61190,7 +61190,7 @@ p=t.Y
 k=$.aUu()
 j=p.i("dB<az.T>")
 h.ay=new A.aD(m.a(n),new A.dB(k,new A.aB(s*0.3,s+5,p),j),j.i("aD<az.T>"))
-q=A.bu(i,B.ts,i,i,q)
+q=A.bu(i,B.tr,i,i,q)
 q.bf()
 q.bW$.D(0,o)
 q.bf()
@@ -61216,7 +61216,7 @@ s.bp()
 s=this.db
 s===$&&A.a()
 s.z=B.b2
-s.hQ(1,B.ac,B.ts)},
+s.hQ(1,B.ac,B.tr)},
 b1(){var s,r=this,q=r.cx
 q===$&&A.a()
 q.ee()
@@ -109245,20 +109245,20 @@ B.a6=new A.aZ(2e5)
 B.n7=new A.aZ(2e6)
 B.Sy=new A.aZ(225e3)
 B.hS=new A.aZ(25e4)
-B.tq=new A.aZ(28e6)
 B.Sz=new A.aZ(2961926e3)
 B.d4=new A.aZ(3e5)
 B.jW=new A.aZ(3e6)
 B.SA=new A.aZ(3e7)
-B.tr=new A.aZ(35e4)
+B.tq=new A.aZ(35e4)
 B.SB=new A.aZ(35e6)
-B.ts=new A.aZ(375e3)
+B.tr=new A.aZ(375e3)
 B.SC=new A.aZ(4e4)
 B.dS=new A.aZ(4e6)
 B.SD=new A.aZ(45e3)
 B.SE=new A.aZ(45e4)
 B.eq=new A.aZ(5e4)
 B.hT=new A.aZ(5e5)
+B.ts=new A.aZ(5e6)
 B.fm=new A.aZ(6e5)
 B.n8=new A.aZ(6e6)
 B.tt=new A.aZ(7e4)
